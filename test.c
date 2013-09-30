@@ -1,3 +1,5 @@
+#include "master.h"
+
 int main()
 {
 	while (1)
