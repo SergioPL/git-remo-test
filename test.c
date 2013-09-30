@@ -14,4 +14,6 @@ exp(x);
 	waznapoprawka2();
 	waznapoprawka3;
 	exit(0);
+
+	mmmmmmmmmmmmmmmmmmmmm
 }
