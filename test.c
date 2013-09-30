@@ -9,5 +9,6 @@ exp(x);
 	}
 	exp2()
 	waznapoprawka2();
+	waznapoprawka3;
 	exit(0);
 }
