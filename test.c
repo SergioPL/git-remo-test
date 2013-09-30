@@ -7,5 +7,6 @@ int main()
 sth(x);
 exp(x);
 	}
+	waznapoprawka2();
 	exit(0);
 }
