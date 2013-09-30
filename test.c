@@ -2,6 +2,7 @@
 
 int main()
 {
+	master()
 	while (1)
 	{
 		wa¿napoprawka()
