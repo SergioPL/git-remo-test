@@ -4,6 +4,7 @@ int main()
 	{
 		; // loop infinite
 sth(x);
+exp(x);
 	}
 	exit(0);
 }
