@@ -7,5 +7,6 @@ int main()
 sth(x);
 exp(x);
 	}
+	exp2()
 	exit(0);
 }
